@@ -1,0 +1,5 @@
+{
+  "base": "./www/",
+  "port": 2400,
+  "logfile": "stderr"
+}
